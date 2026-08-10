@@ -68,6 +68,6 @@ don't destabilise predictions.
 
 ## Running it
 
-Open `house-price-ridge-regression.ipynb` in Jupyter or Google Colab.
+Open `house_price_ridge_regression.ipynb` in Jupyter or Google Colab.
 
 Requires: numpy, pandas, matplotlib, seaborn, scikit-learn
